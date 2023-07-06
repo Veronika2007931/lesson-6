@@ -1,1 +1,1 @@
-# lesson-6.jsAdv
+# lesson-6
