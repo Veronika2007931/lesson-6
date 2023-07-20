@@ -1,11 +1,11 @@
-export default function getSum(a, b){
-    console.log(a + b)
-}
+// export default function getSum(a, b){
+//     console.log(a + b)
+// }
 
-const object = {
-    a:4,
-    b:5
-}
+// const object = {
+//     a:4,
+//     b:5
+// }
 
 
 
