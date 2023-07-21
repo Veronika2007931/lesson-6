@@ -1,11 +1,10 @@
 {
-  "name": "lesson-6",
+  "name": "lesson-6.jsadv",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url/lesson-6/"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,7 +16,7 @@
     "url": "https://github.com/Veronika2007931/lesson-6/issues"
   },
   "homepage": "https://github.com/Veronika2007931/lesson-6#readme",
-  "dependencies": {
-    "parcel-bundler": "^1.12.5"
+  "devDependencies": {
+    "parcel": "^2.9.3"
   }
 }

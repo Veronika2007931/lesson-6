@@ -1,4 +1,4 @@
-export function average(numbers){
+export function everage(numbers){
   let averagenumber = 0
   numbers.forEach(number => {
     averagenumber += number
