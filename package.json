@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "source": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
@@ -16,7 +19,7 @@
     "url": "https://github.com/Veronika2007931/lesson-6/issues"
   },
   "homepage": "https://github.com/Veronika2007931/lesson-6#readme",
-  "devDependencies": {
+  "dependencies": {
     "parcel": "^2.9.3"
   }
 }
